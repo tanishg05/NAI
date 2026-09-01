@@ -45,5 +45,3 @@ docker-compose up --build
 - Backend is available at `http://localhost:8000` (Swagger UI at `/docs`)
 - Frontend is available at `http://localhost:5173`
 
-## License
-MIT
